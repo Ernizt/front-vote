@@ -1,0 +1,1 @@
+export  const URLSERVER = 'https://test-omuz.onrender.com'
